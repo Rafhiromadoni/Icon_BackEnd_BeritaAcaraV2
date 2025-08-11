@@ -1,0 +1,25 @@
+{
+  "jenisBeritaAcara": "User Acceptance Test (UAT)",
+  "kategoriAplikasi": "Aplikasi Web Portal",
+  "jenisRequest": "Change Request",
+  "nomorBA": "4618",
+  "tahun": "2025",
+  "nomorSuratRequest": "2357/STI.01.02/F01000402/2025",
+  "tanggalSuratRequest": "2025-07-01",
+  "tanggalPelaksanaan": "2025-07-09",
+  "judulPekerjaan": "Perubahan Modul Upload Dokumen VPIT",
+  "fiturList": [
+    {
+      "deskripsi": "User dapat mengunggah file invoice",
+      "status": "Selesai",
+      "catatan": "Telah diuji pada staging"
+    },
+    {
+      "deskripsi": "Admin dapat menyetujui dokumen",
+      "status": "Dalam Proses",
+      "catatan": "Menunggu QA"
+    }
+  ],
+  "namaPenandatangan": "Dimas Damaruri",
+  "jabatanPenandatangan": "Assistant Manager Pengembangan Sistem Pelayanan Pelanggan"
+}
